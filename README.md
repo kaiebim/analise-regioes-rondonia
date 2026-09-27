@@ -1,11 +1,13 @@
 # 📊 Mapeamento Regional dos Municípios de Rondônia
 
 > **Sobre o projeto**
+
 Esse é um projeto de estudo na área de Análise de Dados, onde eu busquei dados da **Base dos Dados** e fiz uma pesquisa sobre as regiões dos municípios de Rondônia
 
 ---
 
 > ## 🎯 Objetivo
+
 Este projeto foi desenvolvido como parte dos meus estudos em análise e visualização de dados, sendo meu primeiro projeto prático nessa área. O objetivo é analisar a distribuição geográfica e administrativa dos municípios do estado de Rondônia, considerando diferentes divisões regionais, como Regiões de Saúde, Microrregiões e Mesorregiões, utilizando SQL e Power BI para consulta, organização e visualização dos dados.
 
 ---

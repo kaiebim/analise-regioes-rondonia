@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte dos meus estudos em análise e visualiz
 ---
 
 > ## 🖼️ Preview do Dashboard
-![Dashboard Rondônia](img/dashboard_padrao.png)
+![Dashboard Rondônia](imgs/dashboard_padrao.png)
 
 ---
 
